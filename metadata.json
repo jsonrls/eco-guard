@@ -1,0 +1,9 @@
+{
+  "name": "EcoGuard Naga",
+  "description": "AI-powered civic innovation tool for environmental monitoring in Naga City.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
